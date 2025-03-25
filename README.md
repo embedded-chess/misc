@@ -1,6 +1,6 @@
 # Miscellaneous Files for Embedded Chess Pieces
 
-This repository contains miscellaneous files for the [*Embedded Chess Pieces*](https://github.com/nicosrm/24-emb-chess/) project.
+This repository contains miscellaneous files for the [*Embedded Chess Pieces*](https://github.com/embedded-chess/embedded-chess-pieces) project.
 
 
 ## Context
